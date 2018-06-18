@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # 과적합 방지 기법 중 하나인 Dropout 을 사용해봅니다.
 import tensorflow as tf
 import numpy as np
